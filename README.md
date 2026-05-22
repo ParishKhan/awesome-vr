@@ -158,7 +158,7 @@
 - [ [Udemy](https://www.udemy.com/courses/search/?q=virtual%20reality) ] - has many cheap courses, generally $10 - 15 when on sale
 - [ [EdX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development) ] - has 3 course VR app development program that is free to take, $267 for certificate option
 - [ [Coursera](https://www.coursera.org/specializations/virtual-reality#courses) ] - has 5 course VR track, free to take, but need a monthly subscription for the certificate
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/game-development/virtual-reality) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Other Awesome VR Lists:
 
