@@ -173,6 +173,6 @@
 ## Conferences
 
 - Mixed Reality Developer Conference [ [XRDC](http://www.xrdconf.com/) ]
-- Virtual Reality Developer Conference [ [VRDC](http://www.gdconf.com/vrdc/) ]
+- Virtual Reality Developer Conference — the VRDC site now 404s (the conference was folded into GDC); on the current state of the VR industry: [Valve's Index sunset and the end of PC VR's first era](https://calder-brief.pages.dev/valve-index-sunset-2019-2026-clearance.html)
 
 ## Groups
